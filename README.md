@@ -1,3 +1,3 @@
-# KALLCHOCHO_72_RUS_CALCULATE_C-_DISCRIPTION_BYANOV_SOSI
+# KALLCHOCHO_72_RUS_CALCULATE_C+_DISCRIPTION_BYANOV_SOSI
 DISCRIPTION не нужен, Никита Васильевич обнаружен
 Девачьки и мальчики, в очередной коллабе с YEGOROM Александровичем был написан, а может быть даже и приписан, калькулятор на новейшем языке C++, пользуйтесь, эээ ну лан крч пох
