@@ -5,7 +5,8 @@
 DISCRIPTION не нужен, Никита Васильевич обнаружен
 Девачьки и мальчики, в очередной коллабе с YEGOROM Александровичем был написан, а может быть даже и приписан, калькулятор на новейшем языке C++, пользуйтесь, эээ ну лан крч пох
 
-<img width="325" height="98" alt="изображение" src="https://github.com/user-attachments/assets/782f84e9-c225-42cd-b394-bb1b0fd2d260" />
+<img width="208" height="243" alt="image" src="https://github.com/user-attachments/assets/5cf46425-758f-460a-afd5-67e32ec98597" />
+
 Чистейший да сука
 
 
